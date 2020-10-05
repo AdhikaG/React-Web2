@@ -1,0 +1,27 @@
+.footer{
+
+    background-color: #43E547;
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+    margin: 0;
+    padding: 0;
+    color: white;
+}
+
+.footer-container{
+    width :100%;
+    padding: 5px 10px; 
+    background-color: #43E547;
+   }
+   
+.footer-text p{
+    margin:20px;
+    text-align: center;
+
+    
+}
+
+   .badge{
+   background-color:#e4aa48;
+   }

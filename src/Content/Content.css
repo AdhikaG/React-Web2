@@ -1,0 +1,72 @@
+.first-card{
+    margin-top: 35px;
+    margin-left: 10%;
+    
+}
+
+.second-card{
+    
+    margin-top: 50px;
+    margin-left: 10%;
+}
+
+.third-card{
+
+    margin-left: 39%;
+    margin-top: -835px;
+}
+
+.fourth-card{
+
+    margin-left: 39%;
+    margin-top: 51px;
+
+}
+
+.fifth-card{
+
+    margin-left: 68%;
+    margin-top: -835px;
+
+}
+
+.sixth-card{
+    margin-top: 50px;
+    margin-left: 68%;
+
+}
+
+.Content1 button:hover{
+
+    background-color: #43E547;
+    border: 1px solid white;
+
+}
+.content-image {
+
+    display: flex;
+    margin: 0;
+    padding: 0;
+    align-items: flex-end;
+}
+
+
+.spacer{
+
+    flex: 1;
+}
+
+.Content2 button{
+
+    margin-top: 2%;
+    /* margin-left: 45%; */
+}
+.jumbotron {
+    background-color: white;
+
+}
+
+.button-content2{
+
+    margin-top: 1%;
+}
