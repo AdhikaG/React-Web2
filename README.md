@@ -1,5 +1,20 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+#React Web
+
+Our Web Design Project where we try to create a website with many pages using React-Native and also did a few data validation for login and register. 
+
+My Team:
+1. Adhika Rifqi Gaharu
+2. Soros Lie
+3. Brandon Maverick
+
+Develop:
+1. Using Visual Studio Code
+2. With React
+3. JavaScript Programming Language
+
+
 ## Available Scripts
 
 In the project directory, you can run:
